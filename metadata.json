@@ -1,0 +1,12 @@
+{
+  "name": "zombie coin",
+  "symbol": "ZBIC",
+  "description": "Only Possible On Solana",
+  "image": "https://github.com/Zmbicoin/zbc/blob/main/ZBC.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Compressed Coil"
+    }
+  ]
+}
